@@ -34,7 +34,7 @@ python experimento.py
 python experimento.py --rapido
 ```
 
-No Windows, se `python` não funcionar, use `py`. Para gerar o gráfico PNG instale o matplotlib: `pip install matplotlib` (sem ele o experimento roda normalmente, só não salva o gráfico).
+No Windows, se `python` não funcionar, use `py`. Para gerar o gráfico PNG instale o matplotlib: `pip install matplotlib` (sem ele o experimento roda normalmente).
 
 ## Critério de contagem de comparações
 
